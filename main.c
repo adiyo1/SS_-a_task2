@@ -112,7 +112,7 @@ while (1) {
       //   StrList_isEqual(ptr2, ptr1);
       //   break;
       case 0:
-        return 0 ;
+        //return 0 ;
         exit(0);
         // printf("the program is over");
         // break;
