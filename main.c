@@ -100,9 +100,9 @@ while (1) {
         break;
       case 13:
         if (StrList_isSorted(ptr2)) {
-          printf("true\n");
+          printf("true");
         } else {
-          printf("false\n");
+          printf("false");
         }
         break;
       case 14:
