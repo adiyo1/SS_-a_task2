@@ -121,6 +121,6 @@ while (1) {
     }
   }
 
-
+StrList_free(ptr2);
 return 0;
 }
